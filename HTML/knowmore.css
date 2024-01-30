@@ -1,0 +1,16 @@
+.historicalplaces {
+    /* background-color: rgb(109, 138, 152); */
+    background-image: url(./pexels-rodrigo-souza-2531709.jpg);
+}
+
+.heading {
+    background-image: linear-gradient(90deg, black, rgb(51, 105, 136), black);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+span {
+    color: red;
+}
